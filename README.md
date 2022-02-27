@@ -1,2 +1,2 @@
-# HelloWorld.sol
-ZKU.one Background Assignment 
+# ZKU.one
+Background Assignment 
